@@ -10,3 +10,4 @@ Yang Harus Dibuat :
 - buat seeder siswa
 - buat tiga halaman, halaman utama untuk menampilkan data siswa, halaman untuk menambah siswa, dan halaman untuk mengedit siswa.
 - buat aplikasi dengan pattern mvc. Model, View, dan Controller.
+- di deploy ke heroku
